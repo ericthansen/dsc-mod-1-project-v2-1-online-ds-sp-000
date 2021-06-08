@@ -40,6 +40,8 @@ The project began with several zipped files of movie-related data.  The goal was
 >5) G-Rated films tend to achieve good critical reviews – though this may be driven by BV/Disney, and may be difficult to duplicate. Avoid PG-13 films.
 >6) BV(Disney), P/DW(Paramount), WB(NL)(Warner Brothers-New Line), Uni(Universal) are studios to emulate based on their ROI/Rating performance.
 
+### Non-Technical Presentation
+A [Loom Video](https://www.loom.com/share/a9ef6c6104fb400d95268e05d97020c6) with a brief non-technical business presentation.
 
 
 
