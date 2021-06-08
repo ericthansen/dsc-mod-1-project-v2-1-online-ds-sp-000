@@ -53,6 +53,4 @@ This repo contains:
 * <span style="color:blue">**Movie Studio Feasibility.pptx**</span> - A presentation of findings in Power Point format.
 * <span style="color:blue">**Movie Studio Feasibility.pdf**</span> - A presentation of findings in PDF format.
 * <span style="color:blue">**module1_project_rubric.pdf**</span> - A rubric for evaluation of this project.
-* <span style="color:blue">**TestDB1.db**</span> - A SQLITE database used for analyzing the data.
-* <span style="color:blue">**TestDB1.db-journal**</span> - A SQLITE database used for analyzing the data.
 * <span style="color:blue">**zippedData**</span> - A zipped collection of the data used in the study.
